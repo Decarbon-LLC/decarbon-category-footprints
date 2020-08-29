@@ -1,0 +1,7 @@
+mod_name,mod_type,mod_value,mod_inverse,option_name,option_value,Source
+diet,options,,FALSE,omnivore,1,Source
+diet,options,,FALSE,pescatarian,0.73,Source
+diet,options,,FALSE,vegetarian,0.69,Source
+diet,options,,FALSE,vegan,0.55,Source
+renewables,range,,TRUE,,,
+reusable,bool,0.46,FALSE,,,Source
